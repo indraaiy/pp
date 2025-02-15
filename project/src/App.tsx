@@ -20,7 +20,7 @@ function App() {
             
             {/* Centered logo */}
             <h1 className="text-2xl font-bold text-gray-900 absolute left-1/2 transform -translate-x-1/2">
-              Dad Hats
+              Toni Hush Shop
             </h1>
             
             {/* Cart button */}
